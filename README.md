@@ -6,9 +6,9 @@
   <p align="center"><a href="https://t.me/BotDuniyaXd"><img src="https://telegra.ph/file/29b1910781fb0d6a4869f.jpg" width="300"></a></p>
 
 <p align="center">
+  
 
-
-var | explained
+  COMMAND | FUNCTION
 
 :--- | :---
 
@@ -17,4 +17,3 @@ var | explained
 `/help`| get help
 
 `/video` [name] | download the video
-
