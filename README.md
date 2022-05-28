@@ -8,3 +8,13 @@
 <p align="center">
 
 
+var | explained
+
+:--- | :---
+
+`/start` | start bot
+
+`/help`| get help
+
+`/video` [name] | download the video
+
