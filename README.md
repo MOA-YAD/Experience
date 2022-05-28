@@ -8,35 +8,7 @@
 <p align="center">
   
   
-## 🛠 Available Commands:
+## Repo Stats
 
-🏷️ --**Common Commands**-- :
-
-COMMAND | FUNCTION
-
-:--- | :---
-
-`/start` | start bot
-
-`/help`| get help
-
-`/video` [name] | download the video
-
-🏷️ --**Admin Only Commands**-- :
-
-COMMAND | FUNCTION
-
-:--- | :---
-
-` /play` | video url
-
-`/play`| stream the replied video
-
-`/mute` | mute the userbot in vc
-
-`/unmute` | unmute the userbot in vc
-
-`/end`| end stream and left vc
-
-`/skip`| to skip a current song
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=AMANTYA1&repo=RaiChu-MusicV2&theme=dark)
 
